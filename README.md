@@ -4,7 +4,7 @@
 My research interests are cryptography, security, machine learning, and probabilistic algorithms.
 
 ### education 🎓
-I obtained an M.S. in Computer Science from Harvard University with a 4.0 GPA. I was also a visiting student at MIT, where I completed 6.829 with an A grade. I have also completed the requirements for an M.S. in Cybersecurity from the City College of New York with a 4.0 GPA, and will be graduate at the end of Fall 2025.
+I obtained an M.S. in Computer Science from Harvard University with a 4.0 GPA. I was also a visiting student at MIT, where I completed 6.829 with an A grade. I have also completed the requirements for an M.S. in Cybersecurity from the City College of New York with a 4.0 GPA, and will graduate at the end of Fall 2025.
 
 ### contact 📪  
 hayder dot research at gmail dot com.
