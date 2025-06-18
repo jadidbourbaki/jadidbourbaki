@@ -29,8 +29,8 @@ I'm actively seeking
 ## 📄 Selected Publications
 
 ### Security & Cryptography
-- **[Adversary Resilient Learned Bloom Filters](https://arxiv.org/abs/2409.06556v5)** - *Under submission*
-- **[Adversarially Robust Bloom Filters: Privacy, Reductions, and Open Problems](https://eprint.iacr.org/2025/125)** - *Under submission*
+- **[Adversary Resilient Learned Bloom Filters](https://arxiv.org/abs/2409.06556v5)** - *Under submission at AsiaCrypt 2025*
+- **[Adversarially Robust Bloom Filters: Privacy, Reductions, and Open Problems](https://eprint.iacr.org/2025/125)** - *Under submission at IACR Communications in Cryptology*
 
 ### Systems Research  
 - **[Cheetah: Accelerating Database Queries with Switch Pruning](https://dl.acm.org/doi/abs/10.1145/3318464.3389698)** - *SIGMOD* 
