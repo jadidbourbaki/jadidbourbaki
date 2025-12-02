@@ -45,8 +45,8 @@ World's first ML-augmented Bloom filters with **provable security guarantees**. 
 - [Google P4 PDPI](https://github.com/google/p4-pdpi): Core contributor to Google's P4 representation library. Developed fuzzing modules and runtime verification for switch infrastructure.
 
 ## 🔧 Technical Expertise
-**Languages**: Go, Python, C, C++, Rust, P4, Java, JavaScript
-**Machine Learning**: MCP Design, PyTorch, Scikit-Learn, Nvidia Triton, vLLM, ollama, Ray
-**Security**: Zero Trust, Cryptography, Differential Privacy, Endpoint Security  
-**Systems**: Kafka, Spark, Kubernetes, Borg, MySQL, BigTable, HBase  
-**Cloud**: GCP, AWS, Azure, Terraform, Ansible  
+- **Languages**: Go, Python, C, C++, Rust, P4, Java, JavaScript
+- **Machine Learning**: MCP Design, PyTorch, Scikit-Learn, Nvidia Triton, vLLM, ollama, Ray
+- **Security**: Zero Trust, Cryptography, Differential Privacy, Endpoint Security  
+- **Systems**: Kafka, Spark, Kubernetes, Borg, MySQL, BigTable, HBase  
+- **Cloud**: GCP, AWS, Azure, Terraform, Ansible  
