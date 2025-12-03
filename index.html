@@ -36,17 +36,29 @@
         <div id="content">Loading...</div>
     </article>
     <script>
+        // Get the base path for GitHub Pages (handles subdirectory deployments)
+        const basePath = window.location.pathname.split('/').slice(0, -1).join('/') || '';
+
         fetch('README.md')
             .then(response => response.text())
             .then(text => {
                 // Convert markdown to HTML
                 let html = marked.parse(text);
-                // Fix image paths to be relative to root
+                // Fix image paths to work with GitHub Pages subdirectory structure
                 html = html.replace(/src="([^"]+\.(png|jpg|jpeg|gif|svg))"/g, (match, path) => {
-                    // If path doesn't start with http, make it relative to root
-                    if (!path.startsWith('http')) {
-                        return `src="${path.startsWith('/') ? path : '/' + path}"`;
+                    // If path is already absolute (starts with http://, https://, or //), keep it as is
+                    if (path.startsWith('http://') || path.startsWith('https://') || path.startsWith('//')) {
+                        return match;
                     }
+                    // For relative paths, prepend base path if we're in a subdirectory
+                    // If basePath is empty (root), just use the path as-is
+                    // Otherwise, prepend basePath
+                    if (basePath && !path.startsWith('/')) {
+                        return `src="${basePath}/${path}"`;
+                    } else if (basePath && path.startsWith('/')) {
+                        return `src="${basePath}${path}"`;
+                    }
+                    // If no basePath, keep relative paths as-is
                     return match;
                 });
                 document.getElementById('content').innerHTML = html;
