@@ -2,16 +2,17 @@
 
 [[Email](mailto:hayder.research@gmail.com)] [[Google Scholar](https://scholar.google.com/citations?user=qgOBcYMAAAAJ)]
 
-## Research Interests
+<img src="hayder2.png" alt="hayder" width="250" style="float: left; margin: 0px 20px 0px 0px; border-radius: 0px;">
+My research bridges the beautiful and mathematically rigorous world of CS Theory with the messy dark art of implementing high-performance systems that can scale. My work demonstrates that provable guarantees (correctness, security, performance bounds) can be achieved without sacrificing practical efficiency, often leading to measurable performance improvements at the scale of multiple orders of magnitude. Recently, I'm focused on ML performance. This includes optimizing both ML inference and training, along with training and using Agentic AI to solve research-level systems problems. I am also interested in Adversarial AI. I built out a zero-trust gateway for AI infrastructure, and am finding security solutions for AI/ML vulnerabilites.
 
-My research bridges theoretical computer science and systems engineering, developing formal models and results that translate to practical performance improvements. The most impactful systems work is grounded in rigorous theory, and the most impactful theory work is motivated by real systems problems. My research demonstrates that provable guarantees (correctness, security, performance bounds) can be achieved without sacrificing practical efficiency, often leading to measurable performance improvements at the scale of multiple orders of magnitude. 
+## Biographical Sketch
 
-Over the past 2 years, I have been focusing on ML performance and robustness. On the ML performance side, this includes optimizing both ML inference and training, along with training and using Agentic AI to solve research-level systems problems. In the ML robustness space, I am interesting the Adversarial AI both from a theory lens and a systems lens, I have worked on building a zero-trust gateway for AI infrastructure, finding security solutions for AI/ML vulnerabilites, and monitoring + auditing the runtime behavior of agents. 
+**Research Background**: I obtained an M.S. in Computer Science from Harvard with a 4.0 GPA. At Harvard, I was advised by [Dr. Minlan Yu](https://minlanyu.seas.harvard.edu/). I have a second M.S. in Cybersecurity from the City College of New York with a 4.0 GPA, where I was advised by [Dr. Allison Bishop](https://www.thecomputersciencecomedian.com/). I was also a visiting student at MIT, where I completed [6.829](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/) with an A grade. 
 
-![research](research.png)
+**Industry Background**: I am currently a Member of Technical Staff at a seed-stage MIT startup focusing on ML for Systems. In the past, I have held senior-level engineering roles and research roles at multiple tech companies including Stripe, Google, and Bloomberg. I am also the co-founder and CTO of [Dorcha](https://getdorcha.com/), a company specializing in AI security and privacy. 
 
-## Short Bio
-I have held staff-level, senior-level, and research engineering roles at multiple tech companies including (most recently) a seed-stage MIT startup focusing on ML for Systems, as well as Stripe, Google, and Bloomberg. I am also the Co-founder and CTO of Dorcha, a company specializing in AI security and privacy. I obtained an M.S. in Computer Science focusing on Networks \& Systems from Harvard with a 4.0 GPA. I also hold an M.S. in Cybersecurity focusing on CS Theory \& Cryptography from the City College of New York with a 4.0 GPA. I was also a visiting student at MIT for one semester, where I completed 6.829 with an A grade, and an adjunct professor at Adrian College where I taught an advanced-undergrad course focusing on ML and Systems engineering. 
+**Teaching Background**: I designed [assignments](https://github.com/jadidbourbaki/adversarial-ai-assignments) for [Allison Bishop](https://www.thecomputersciencecomedian.com/)’s graduate-level Adversarial AI course at the City College of New York. For Fall 2025, I was an adjunct professor at Adrian College, teaching an advanced-undergrad course focused on Systems + ML. I was a Teaching Fellow at Harvard for the course CS 145: Networking at Scale.
+
 
 ## Publications
 
@@ -44,7 +45,7 @@ World's first ML-augmented Bloom filters with **provable security guarantees**. 
 
 - [Google P4 PDPI](https://github.com/google/p4-pdpi): Core contributor to Google's P4 representation library. Developed fuzzing modules and runtime verification for switch infrastructure.
 
-## 🔧 Technical Expertise
+## Technical Expertise
 - **Languages**: Go, Python, C, C++, Rust, P4, Java, JavaScript
 - **Machine Learning**: MCP Design, PyTorch, Scikit-Learn, Nvidia Triton, vLLM, ollama, Ray
 - **Security**: Zero Trust, Cryptography, Differential Privacy, Endpoint Security  
