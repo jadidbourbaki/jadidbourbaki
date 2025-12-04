@@ -3,6 +3,7 @@
 [[Email](mailto:hayder.research@gmail.com)] [[Google Scholar](https://scholar.google.com/citations?user=qgOBcYMAAAAJ)]
 
 <img src="hayder2.png" alt="hayder" width="250" style="float: left; margin: 0px 20px 0px 0px; border-radius: 0px;">
+
 My research bridges the beautiful and mathematically rigorous world of CS Theory with the messy dark art of implementing high-performance systems that can scale. My work demonstrates that provable guarantees (correctness, security, performance bounds) can be achieved without sacrificing practical efficiency, often leading to measurable performance improvements at the scale of multiple orders of magnitude. Recently, I'm focused on ML performance. This includes optimizing both ML inference and training, along with training and using Agentic AI to solve research-level systems problems. I am also interested in Adversarial AI. I built out a zero-trust gateway for AI infrastructure, and am finding security solutions for AI/ML vulnerabilites.
 
 ## Biographical Sketch
@@ -36,14 +37,20 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 
 ## Featured Open-Source Projects
 
-- **[PRP-LBF & Cuckoo-LBF](https://github.com/jadidbourbaki/permuted-partitioned-lbf)**:
+- [PRP-LBF & Cuckoo-LBF](https://github.com/jadidbourbaki/permuted-partitioned-lbf):
 World's first ML-augmented Bloom filters with **provable security guarantees**. Extends Google Research's learned Bloom filters (Kraska et al.) with adversarial robustness.
 
 - [Pulsar-RNG](https://github.com/jadidbourbaki/pulsar_rng): Cryptographic TRNG using **pulsar data** from NASA/ESA as entropy source. Public alternative to Cloudflare's lava lamp generators.
 
 - [Lilypond](https://github.com/lilyfarm/lilypond): Cryptographic speedrun verification exploring **proofs of execution** and tamper-resistance. High-performance C implementation.
 
+- [libprobability](https://github.com/jadidbourbaki/libprobability): Tiny, self-contained, high-performance C library for 
+probabilistic data structures. 
+
 - [Google P4 PDPI](https://github.com/google/p4-pdpi): Core contributor to Google's P4 representation library. Developed fuzzing modules and runtime verification for switch infrastructure.
+
+- [Cheetah](https://github.com/harvard-cns/cheetah-release): P4 library that optimizes queries using programmable switches. Works
+with the Barefoot Tofino switch (which is sadly no longer in production by Intel).
 
 ## Technical Expertise
 - **Languages**: Go, Python, C, C++, Rust, P4, Java, JavaScript
