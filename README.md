@@ -10,7 +10,7 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 
 **Research Background**: I obtained an M.S. in Computer Science from Harvard with a 4.0 GPA. At Harvard, I was advised by [Dr. Minlan Yu](https://minlanyu.seas.harvard.edu/). I have a second M.S. in Cybersecurity from the City College of New York with a 4.0 GPA, where I was advised by [Dr. Allison Bishop](https://www.thecomputersciencecomedian.com/). I was also a visiting student at MIT, where I completed [6.829](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/) with an A grade. 
 
-**Industry Background**: I am currently a Member of Technical Staff at a seed-stage MIT startup focusing on ML for Systems. In the past, I have held senior-level engineering roles and research roles at multiple tech companies including Stripe, Google, and Bloomberg. I am also the co-founder and CTO of [Dorcha](https://getdorcha.com/), a company specializing in AI security and privacy. 
+**Industry Background**: I have held staff and senior-level engineering roles at multiple tech companies including Stripe, Google, and Bloomberg. I am also the co-founder and CTO of [Dorcha](https://getdorcha.com/), a company specializing in AI security and privacy. 
 
 **Teaching Background**: I designed [assignments](https://github.com/jadidbourbaki/adversarial-ai-assignments) for [Allison Bishop](https://www.thecomputersciencecomedian.com/)’s graduate-level Adversarial AI course at the City College of New York. For Fall 2025, I was an adjunct professor at Adrian College, teaching an advanced-undergrad course focused on Systems + ML. I was a Teaching Fellow at Harvard for the course CS 145: Networking at Scale.
 
