@@ -33,6 +33,7 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 - **[An Introduction to Protein Cryptography](https://eprint.iacr.org/2025/089.pdf)**
 - **[LSM Trees in Adversarial Environments](https://eprint.iacr.org/2025/218)**
 - **[Random Number Generation from Pulsars](https://eprint.iacr.org/2025/357.pdf)**
+- **[Computational Complexity of Game Boy Games](https://arxiv.org/pdf/2412.15469)**
 
 
 ## Featured Open-Source Projects
