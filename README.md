@@ -38,6 +38,8 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 
 ## Featured Open-Source Projects
 
+- [Orla](https://orlaserver.github.io/): An open-source serving stack for agentic workflows that decouples request execution from agent-loop policy.
+
 - [PRP-LBF & Cuckoo-LBF](https://github.com/jadidbourbaki/permuted-partitioned-lbf):
 World's first ML-augmented Bloom filters with **provable security guarantees**. Extends Google Research's learned Bloom filters (Kraska et al.) with adversarial robustness.
 
