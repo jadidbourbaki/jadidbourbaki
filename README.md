@@ -28,6 +28,8 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 
 ### Under submission, preprints, and tutorials/surveys
 
+- **[Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2603.13605)**
+- **[DRCY: Agentic Hardware Design Reviews](https://arxiv.org/abs/2603.15672)**
 - **[Whistledown: Combining User-Level Privacy with Conversational Coherence in LLMs](https://arxiv.org/abs/2511.13319)**
 - **[Adversarially Robust Bloom Filters: Privacy, Reductions, and Open Problems](https://eprint.iacr.org/2025/125)**
 - **[An Introduction to Protein Cryptography](https://eprint.iacr.org/2025/089.pdf)**
