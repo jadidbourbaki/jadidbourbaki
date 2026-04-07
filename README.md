@@ -1,6 +1,6 @@
 # hayder
 
-[[Email](mailto:hayder.research@gmail.com)] [[Google Scholar](https://scholar.google.com/citations?user=qgOBcYMAAAAJ)]
+[[Email](mailto:hayder.research@gmail.com)] [[Google Scholar](https://scholar.google.com/citations?user=qgOBcYMAAAAJ)] [[Blog](https://jadidbourbaki.github.io/blog/)]
 
 <img src="hayder2.png" alt="hayder" width="250" style="float: left; margin: 0px 20px 0px 0px; border-radius: 0px;">
 
