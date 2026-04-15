@@ -18,6 +18,8 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 ## Publications
 
 ### Published work
+- **[Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2603.13605)** - *CAIS 2026 (Systems Demonstration Track)*
+- **[DRCY: Agentic Hardware Design Reviews](https://arxiv.org/abs/2603.15672)** - *CAIS 2026 (Systems Demonstration Track)*
 - **[Adversary Resilient Learned Bloom Filters](https://arxiv.org/abs/2409.06556v5)** - *AsiaCrypt 2025*
 - **[Cheetah: Accelerating Database Queries with Switch Pruning](https://dl.acm.org/doi/abs/10.1145/3318464.3389698)** - *SIGMOD 2020* 
 - **[Borg: the Next Generation](https://research.google/pubs/borg-the-next-generation/)** - *EuroSys 2020* 
@@ -28,8 +30,6 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 
 ### Under submission, preprints, and tutorials/surveys
 
-- **[Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2603.13605)**
-- **[DRCY: Agentic Hardware Design Reviews](https://arxiv.org/abs/2603.15672)**
 - **[Whistledown: Combining User-Level Privacy with Conversational Coherence in LLMs](https://arxiv.org/abs/2511.13319)**
 - **[Adversarially Robust Bloom Filters: Privacy, Reductions, and Open Problems](https://eprint.iacr.org/2025/125)**
 - **[An Introduction to Protein Cryptography](https://eprint.iacr.org/2025/089.pdf)**
