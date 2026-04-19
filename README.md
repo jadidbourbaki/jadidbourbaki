@@ -18,7 +18,7 @@ My research bridges the beautiful and mathematically rigorous world of CS Theory
 ## Publications
 
 ### Published work
-- **[Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2603.13605)** - *CAIS 2026 (Systems Demonstration Track)*
+- **[Orla: A Library for Serving LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2603.13605)** - *CAIS 2026 (Systems Demonstration Track)* + *[NE Agents Day](https://ne-agents-day.github.io/) 2026*
 - **[DRCY: Agentic Hardware Design Reviews](https://arxiv.org/abs/2603.15672)** - *CAIS 2026 (Systems Demonstration Track)*
 - **[Adversary Resilient Learned Bloom Filters](https://arxiv.org/abs/2409.06556v5)** - *AsiaCrypt 2025*
 - **[Cheetah: Accelerating Database Queries with Switch Pruning](https://dl.acm.org/doi/abs/10.1145/3318464.3389698)** - *SIGMOD 2020* 
